@@ -66,7 +66,7 @@ url_formulario <- "https://forms.gle/4AGu9StQKVsVvj5x7"
 
 ::: {.card width="80%"}
 
-Este tablero forma parte del tutorial **“Automatiza la publicación de tus reportes con Quarto y GitHub Actions”**, dictado en el marco de **LatinR 2026**. Su finalidad es exclusivamente ilustrativa: muestra un flujo de trabajo reproducible que conecta un formulario en línea con un dashboard generado automáticamente a partir de las respuestas recibidas. Fue actualizado por última vez el **`r format(ultima_actualizacion, '%d/%m/%Y %H:%M')`**. Está asociado a este 👉[formulario](`r url_formulario`).  
+Este tablero forma parte del tutorial de **LatinR 2026**: **“Automatiza la publicación de tus reportes con Quarto y GitHub Actions”**. Su finalidad es exclusivamente ilustrativa: muestra un flujo de trabajo reproducible que conecta un formulario en línea con un dashboard generado automáticamente a partir de las respuestas recibidas. Fue actualizado por última vez el **`r format(ultima_actualizacion, '%d/%m/%Y %H:%M')`**. Está asociado a este 👉[formulario](`r url_formulario`).  
 
 :::
 
